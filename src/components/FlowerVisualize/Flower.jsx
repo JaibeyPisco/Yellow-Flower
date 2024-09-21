@@ -37,11 +37,11 @@ export const Flower = () => {
         {`${t("flower.developedBy")} `}
         <a
           className="text-teal-400 hover:text-teal-600"
-          href="https://github.com/Escihu-Wizards"
+          href="https://github.com/JaibeyPisco"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Escihu-Wizards
+          JAIBEY PISCO
         </a>
       </p>
     </div>
